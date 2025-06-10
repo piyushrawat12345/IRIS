@@ -1,6 +1,6 @@
 **Project Name**
 
-IRIS
+IRIS(Initiative for Research and Innovation in STEM)
 
 **Overview**
 
